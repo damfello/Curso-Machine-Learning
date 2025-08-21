@@ -4,7 +4,7 @@
 
 ![Curso de Machine Learning](assets/curso_machine_Learning_gatocondatos.png)
 
-_**Nota:** Puedes seguir las explicaciones a través de mis videos en mi canal de Youtube **[@GatoconDatos](https://www.youtube.com/@gatocondatos/videos)**._
+_**Nota:** Puedes seguir las explicaciones a través de mis videos en mi canal de Youtube **[@GatoconDatos][1]**._
 
 
 
@@ -17,7 +17,7 @@ _**Nota:** Puedes seguir las explicaciones a través de mis videos en mi canal d
 El curso se encuentra en pleno desarrollo. Una vez vaya publicando cada modulo, iré actualizando el contenido aquí.
 
 
-
+[1]: https://www.youtube.com/@gatocondatos/videos
 
 
 ---
