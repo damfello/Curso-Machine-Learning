@@ -2,7 +2,7 @@
 
 ¡Bienvenido al repositorio de mi curso de Machine Learning! Aquí encontrarás los archivos con los que estaremos trabajando durante todo el curso. 
 
-![Curso de Machine Learning](assets/curso_machine_Learning_gatocondatos.png)
+![Curso de Machine Learning](assets/curso_machine_Learning_gato_con_datos.png)
 
 _**Nota:** Puedes seguir las explicaciones a través de mis videos en mi canal de Youtube **[@GatoconDatos](https://www.youtube.com/@gatocondatos/videos)**._
 
