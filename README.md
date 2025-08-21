@@ -1,4 +1,4 @@
-# Curso de MAchine Learning: de principiante a profesional.
+# Curso de Machine Learning: de principiante a profesional.
 
 ¡Bienvenido al repositorio de mi curso de Machine Learning! Aquí encontrarás los archivos con los que estaremos trabajando durante todo el curso. 
 
