@@ -8,13 +8,15 @@ _**Nota:** Puedes seguir las explicaciones a través de mis videos en mi canal d
 
 
 
-## El Proyecto
+## Contenido del curso
 
-Este proyecto muestra la implementación y entrenamiento de un modelo de regresión lineal simple. El modelo predice las ventas online de una tienda basándose en su inversión en publicidad de YouTube.
+1. Introducción al Machine Learning
+2. Modelo de Regresión Lineal Simple
 
-## Visualización del Modelo
 
-Aquí puedes ver la recta de regresión ajustada a los datos de entrenamiento.
+El curso se encuentra en pleno desarrollo. Una vez vaya publicando cada modulo, iré actualizando el contenido en este repositorio.
+
+
 
 
 
