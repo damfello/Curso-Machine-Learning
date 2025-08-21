@@ -14,7 +14,7 @@ _**Nota:** Puedes seguir las explicaciones a través de mis videos en mi canal d
 2. Modelo de Regresión Lineal Simple
 
 
-El curso se encuentra en pleno desarrollo. Una vez vaya publicando cada modulo, iré actualizando el contenido en este repositorio.
+El curso se encuentra en pleno desarrollo. Una vez vaya publicando cada modulo, iré actualizando el contenido aquí.
 
 
 
